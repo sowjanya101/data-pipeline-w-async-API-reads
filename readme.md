@@ -1,4 +1,4 @@
-****# pre-requisites
+# pre-requisites
 - python version of python 3.11 or above 
 - spark installation, and environmental path variables set 
 - "make" is installed on windows. I used chocolatey to intall make for windows
